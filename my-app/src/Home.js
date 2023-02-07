@@ -103,7 +103,7 @@ export default function Home() {
       <div className='cek4'>
         <h1 className='cek4'>AN INDUSTRY'S <br/>LEADING CAR-SELLING <br/>PLATFORM</h1>
       </div>
-      <div className='cer5'>
+      <div className='cek5'>
         <h1 className='cek5'>THE APP FOR <br/>BLOCK-CHAIN</h1>
       </div>
       <div className='cer6'>
