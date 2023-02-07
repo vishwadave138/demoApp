@@ -1,0 +1,209 @@
+.rest{
+  text-align: center;
+}
+
+.xy{
+  text-align: center;
+}
+.xy button{
+  height: 50px;
+  width: 200px;
+  font-size: 20px;
+  margin: 10px;
+}
+.xyz .ip{
+  float: left;
+  margin: 10px;
+  padding: 3px;
+}
+.men{
+  display: flex;
+  margin: 23px;
+  padding: 2px;
+}
+.xyz .ip .img img{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+.ip{
+  border: 2px solid black;
+  border-radius: 5%;
+}
+
+.upd{
+  display: flex;
+  margin-left: 120px; 
+}
+.upd button{
+  margin: 20px;
+}
+
+/* nav.js */
+.bar{
+  display: flex;
+  justify-content: space-between;
+}
+.lo{
+  margin: 20px;
+}
+ .tar {
+  text-decoration: none;
+  margin: 20px;
+  padding: 3px;
+  font-size: 20px;
+}
+.sar{
+  margin-top: 70px;
+  margin-left: 250px;
+}
+.sar a{
+  color: navy;
+  font-weight: 400;
+  transition: 0.5s;
+}
+.sar a:hover{
+  color: rgb(97, 68, 5);
+}
+.but{
+  margin-top: 70px;
+  margin-right: 70px;
+}
+button{
+  height: 33px;
+  width: 90px;
+  border-radius: 100px;
+  font-size: 18px;
+  background-color: rgb(192, 186, 186);
+}
+.hom{
+  background-image: url("../src/img/back.webp");
+  height: 600px;
+  width: 100%;
+}
+.hom h1{
+  font-size: 60px;
+  color: rgb(214, 207, 197);
+  margin-left: 120px;
+  margin-top: -20px;
+}
+.hom .btn button{
+  height: 50px;
+  width: 300px;
+  margin-left: 120px;
+  color: black;
+  background-color: rgb(168, 226, 226);
+}
+
+.sol1{
+   text-align: center;
+   margin-top: 90px;
+}
+.sol1 h1{
+  font-size: 50px;
+  font-family: serif;
+  color: rgb(58, 59, 59);
+}
+.sol1 p{
+  font-size: 20px;
+  color: black;
+}
+.sol2{
+  display: flex;
+  text-align: center;
+  margin-top: 70px;
+}
+.sol2 h3{
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.sol2 p{
+  font-size: 20px;
+}
+.tec1{
+  text-align: center;
+  margin-top: 90px;
+}
+.tec1 h1{
+ font-size: 50px;
+ font-family: serif;
+ color: rgb(58, 59, 59);
+}
+.tec1 p{
+ font-size: 18px;
+ color: black;
+}
+.tec2 img{
+  height: 140px;
+  width: 140px;
+  margin: 80px;
+}  
+.cek1{
+  text-align: center;
+  margin-top: 90px;
+}
+.cek1 h1{
+ font-size: 50px;
+ font-family: serif;
+ color: rgb(58, 59, 59);
+}
+.cek1 p{
+ font-size: 18px;
+ color: black;
+}
+.cek2 {
+  background-image: url(../src/img/fou1.jpg);
+  height: 600px;
+  width: 900px;
+  margin: 110px;
+  border-radius: 5%;
+  margin-top: 0px;
+}
+.cek2 h1{
+  font-size: 50px;
+  color: rgb(79, 55, 3);
+}
+.cek3 {
+  background-image: url(../src/img/fou4.png);
+
+  height: 600px;
+  width: 900px;
+  margin: 110px;
+  border-radius: 5%;
+  margin-top: -5px;
+}
+.cek3 h1{
+  font-size: 50px;
+  color: rgb(109, 15, 231);
+  
+}
+.cek4 {
+  background-image: url(../src/img/fou2.jpg);
+  height: 600px;
+  width: 900px;
+  margin: 110px;
+  border-radius: 5%;
+  margin-top: 0px;
+}
+.cek4 h1{
+  font-size: 50px;
+  color: rgb(79, 55, 3);
+}
+.cek5 {
+  background-image: url(../src/img/fou3.jpg);
+  height: 600px;
+  width: 900px;
+  margin: 110px;
+  border-radius: 5%;
+  margin-top: 0px;
+}
+.cek5 h1{
+  font-size: 50px;
+  color: rgb(214, 138, 46);
+}
+
+
+
+
+
+
